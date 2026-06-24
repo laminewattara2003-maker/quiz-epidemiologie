@@ -1,2 +1,1 @@
-# quiz-epidemiologie
-Quiz d'épidémiologie pour étudiants en santé publique
+<h1>Quiz Épidémiologie</h1>
